@@ -1,6 +1,6 @@
 #
 #
-# autores: Michel
+# autores: Michel, Cristiano
 #
 # data: 06-06-2023
 
