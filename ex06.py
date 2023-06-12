@@ -4,7 +4,8 @@
 #
 # data: 06-06-2023
 
-# 6.	Escreva um programa que verifica se um número é múltiplo de 3 ou de 5 ou de 
+# 6.	Escreva um programa que verifica se um número é 
+# múltiplo de 3 ou de 5 ou de 
 # ambos e imprime a mensagem correspondente.
 
 # Entrada de dados

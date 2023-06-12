@@ -4,7 +4,8 @@
 #
 # data: 06-06-2023
 
-# 4.	Faça um programa que leia um número inteiro e verifique se ele é um número primo.
+# 4.	Faça um programa que leia um número inteiro e verifique 
+# se ele é um número primo.
 
 # Entrada de dados
 num = int(input("Digite um número inteiro: "))
